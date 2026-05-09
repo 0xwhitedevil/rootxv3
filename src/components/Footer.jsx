@@ -108,7 +108,7 @@ export default function Footer() {
       {/* V0.1 #8: 2026 · V0.3 #3: A Unit of Rootecstak Group, no location */}
       <div className="footer__bottom">
         <p>© 2026 RootX. All rights reserved.</p>
-        <p className="footer__bottom-meta">A Unit of Rootecstak Group · Designed with security in mind.</p>
+        <p className="footer__bottom-meta">Rootecstak Group · Designed with security in mind.</p>
       </div>
     </footer>
   );
