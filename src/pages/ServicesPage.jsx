@@ -97,7 +97,7 @@ export default function ServicesPage() {
 
           <div className="svc-intel__right">
             {/* V0.3 #6: terminal vibes replaced with a clean report-style card */}
-            <div className="report-card">
+            {/* <div className="report-card">
               <div className="report-card__header">
                 <div className="report-card__badge report-card__badge--critical">CRITICAL</div>
                 <div className="report-card__id">VULN-2026-001</div>
@@ -126,7 +126,7 @@ export default function ServicesPage() {
                 </svg>
                 Re-test included to verify remediation
               </div>
-            </div>
+            </div> */}
           </div>
 
         </div>
