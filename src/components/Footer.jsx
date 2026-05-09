@@ -27,10 +27,10 @@ const IconFacebook = () => (
 );
 
 const SOCIAL = [
-  { label: 'Instagram', href: 'https://www.instagram.com/rootx.services',        Icon: IconInstagram },
-  { label: 'LinkedIn',  href: 'https://www.linkedin.com/company/rootx-services/', Icon: IconLinkedIn  },
-  { label: 'Twitter',   href: '#', Icon: IconTwitter  },
-  { label: 'Facebook',  href: '#', Icon: IconFacebook },
+  { label: 'Instagram', href: 'https://www.instagram.com/rootx.security',        Icon: IconInstagram },
+  { label: 'LinkedIn',  href: 'https://www.linkedin.com/company/rootxsecurity/', Icon: IconLinkedIn  }
+  // { label: 'Twitter',   href: '#', Icon: IconTwitter  },
+  // { label: 'Facebook',  href: '#', Icon: IconFacebook },
 ];
 
 export default function Footer() {
